@@ -1,0 +1,31 @@
+0,BONJOUR *,*,*,<srai>BONJOUR</srai>,repetitions.aiml
+0,SALUT *,*,*,<srai>BONJOUR</srai>,repetitions.aiml
+0,HELLO *,*,*,<srai>BONJOUR</srai>,repetitions.aiml
+0,COUCOU *,*,*,<srai>BONJOUR</srai>,repetitions.aiml
+0,HEY,*,*,<srai>BONJOUR</srai>,repetitions.aiml
+0,YO !,*,*,<srai>BONJOUR</srai>,repetitions.aiml
+0,COMMENT ALLEZ VOUS,*,*,<srai>COMMENT CA VA </srai>,repetitions.aiml
+0,COMMENT CA VA ?,*,*,<srai>COMMENT CA VA </srai>,repetitions.aiml
+0,CA VA ?,*,*,<srai>COMMENT CA VA </srai>,repetitions.aiml
+0,TU VAS BIEN,*,*,<srai>COMMENT CA VA </srai>,repetitions.aiml
+0,MERCI *,*,*,<srai>MERCI</srai>,repetitions.aiml
+0,PARDON *,*,*,<srai>PARDON</srai>,repetitions.aiml
+0,DESOLE,*,*,<srai>PARDON</srai>,repetitions.aiml
+0,DÉSOLÉ *,*,*,<srai>PARDON</srai>,repetitions.aiml
+0,A TOUTE,*,*,<srai>AU REVOIR</srai>,repetitions.aiml
+0,A BIENTOT,*,*,<srai>AU REVOIR</srai>,repetitions.aiml
+0,A DEMAIN,*,*,<srai>AU REVOIR</srai>,repetitions.aiml
+0,BYE BYE,*,*,<srai>AU REVOIR</srai>,repetitions.aiml
+0,CIAO,*,*,<srai>AU REVOIR</srai>,repetitions.aiml
+0,A LA PROCHAINE,*,*,<srai>AU REVOIR</srai>,repetitions.aiml
+0,A TOUT A L'HEURE,*,*,<srai>AU REVOIR</srai>,repetitions.aiml
+0,ADIEU,*,*,<srai>AU REVOIR</srai>,repetitions.aiml
+0,COMMENT TU T APPELLES,*,*,<srai>QUI ES TU</srai>,repetitions.aiml
+0,COMMENT T APPELLES-TU,*,*,<srai>QUI ES TU</srai>,repetitions.aiml
+0,COMMENT TU T'APPELLES,*,*,<srai>QUI ES TU</srai>,repetitions.aiml
+0,COMMENT T'APPELLES-TU,*,*,<srai>QUI ES TU</srai>,repetitions.aiml
+0,COMMENT VOUS APPELLEZ-VOUS,*,*,<srai>QUI ES TU</srai>,repetitions.aiml
+0,QUEL EST TON NOM,*,*,<srai>QUI ES TU</srai>,repetitions.aiml
+0,QUEL EST VOTRE NOM,*,*,<srai>QUI ES TU</srai>,repetitions.aiml
+0,* MARIÉ *,*,*,<srai>* CELIBATAIRE *</srai>,repetitions.aiml
+0,* TA FEMME *,*,*,<srai>* CELIBATAIRE *</srai>,repetitions.aiml

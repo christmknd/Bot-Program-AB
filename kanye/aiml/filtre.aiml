@@ -1,0 +1,82 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<aiml>
+
+    <category>
+            <pattern>INSULTE</pattern>
+            <template>
+                <random>
+                    <li>Je m en fous ... Allez salut</li>
+                    <li>Pff ... C est pathetique ...</li>
+                    <li>C est tout ce que t'as a dire ?</li>
+                </random>
+            </template>
+    </category>
+
+    <category>
+            <pattern>ESPECE DE * </pattern>
+            <template>
+                <srai>INSULTE</srai>
+            </template>
+   </category>
+
+   <category>
+            <pattern>ESPECE D' * </pattern>
+            <template>
+                <srai>INSULTE</srai>
+            </template>
+   </category>
+
+   <category>
+            <pattern>SALE * </pattern>
+            <template>
+                <srai>INSULTE</srai>
+            </template>
+   </category>
+
+   <category>
+            <pattern>GROS * </pattern>
+            <template>
+                <srai>INSULTE</srai>
+            </template>
+   </category>
+
+   <category>
+            <pattern>GROSSE * </pattern>
+            <template>
+                <srai>INSULTE</srai>
+            </template>
+   </category>
+
+   <category>
+            <pattern>TA GUEULE</pattern>
+            <template>
+                <srai>INSULTE</srai>
+            </template>
+   </category>
+
+   <category>
+            <pattern>JE T'EMMERDE</pattern>
+            <template>
+                <srai>INSULTE</srai>
+            </template>
+   </category>
+
+
+   <category>
+            <pattern>FUCK YOU</pattern>
+            <template>
+                <srai>INSULTE</srai>
+            </template>
+   </category>
+
+   <category>
+            <pattern> <set>insulte</set> </pattern>
+            <template>
+                <srai>INSULTE</srai>
+            </template>
+   </category>
+
+
+
+</aiml>

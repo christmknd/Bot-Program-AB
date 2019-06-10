@@ -1,0 +1,217 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<aiml>
+
+	<!--DIALOG.AIML-->
+
+	<category>
+		<pattern>BONJOUR *</pattern>
+		<template>
+			<srai>BONJOUR</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>SALUT *</pattern>
+		<template>
+			<srai>BONJOUR</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>HELLO *</pattern>
+		<template>
+			<srai>BONJOUR</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>COUCOU *</pattern>
+		<template>
+			<srai>BONJOUR</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>HEY</pattern>
+		<template>
+			<srai>BONJOUR</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>YO !</pattern>
+		<template>
+			<srai>BONJOUR</srai>
+		</template>
+	</category>
+
+
+	<category>
+		<pattern>COMMENT ALLEZ VOUS </pattern>
+		<template>
+			<srai>COMMENT CA VA </srai>
+		</template>
+	</category>
+	<category>
+		<pattern>COMMENT CA VA ?</pattern>
+		<template>
+			<srai>COMMENT CA VA </srai>
+		</template>
+	</category>
+	<category>
+		<pattern>CA VA ?</pattern>
+		<template>
+			<srai>COMMENT CA VA </srai>
+		</template>
+	</category>
+	<category>
+		<pattern>TU VAS BIEN </pattern>
+		<template>
+			<srai>COMMENT CA VA </srai>
+		</template>
+	</category>
+
+
+	<category>
+		<pattern>MERCI *</pattern>
+		<template>
+			<srai>MERCI</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>PARDON *</pattern>
+		<template>
+			<srai>PARDON</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>DESOLE</pattern>
+		<template>
+			<srai>PARDON</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>Désolé *</pattern>
+		<template>
+			<srai>PARDON</srai>
+		</template>
+	</category>
+
+
+<category>
+		<pattern>A TOUTE</pattern>
+		<template>
+			<srai>AU REVOIR</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>A BIENTOT</pattern>
+		<template>
+			<srai>AU REVOIR</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>A DEMAIN</pattern>
+		<template>
+			<srai>AU REVOIR</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>BYE BYE</pattern>
+		<template>
+			<srai>AU REVOIR</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>CIAO</pattern>
+		<template>
+			<srai>AU REVOIR</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>A LA PROCHAINE</pattern>
+		<template>
+			<srai>AU REVOIR</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>A TOUT A L'HEURE</pattern>
+		<template>
+			<srai>AU REVOIR</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>ADIEU</pattern>
+		<template>
+			<srai>AU REVOIR</srai>
+		</template>
+	</category>
+
+
+		<!--IDENTITE.AIML-->
+
+	<category>
+		<pattern>COMMENT TU T APPELLES</pattern>
+		<template>
+			<srai>QUI ES TU</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>COMMENT T APPELLES-TU</pattern>
+		<template>
+			<srai>QUI ES TU</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>COMMENT VOUS APPELLEZ-VOUS</pattern>
+		<template>
+			<srai>QUI ES TU</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>COMMENT TU T'APPELLES</pattern>
+		<template>
+			<srai>QUI ES TU</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>COMMENT T'APPELLES-TU</pattern>
+		<template>
+			<srai>QUI ES TU</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>COMMENT VOUS APPELLEZ-VOUS </pattern>
+		<template>
+			<srai>QUI ES TU</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>QUEL EST TON NOM</pattern>
+		<template>
+			<srai>QUI ES TU</srai>
+		</template>
+	</category>
+	<category>
+		<pattern>QUEL EST VOTRE NOM</pattern>
+		<template>
+			<srai>QUI ES TU</srai>
+		</template>
+	</category>
+	
+
+			<!--IDENTITE.AIML-->
+
+	<category>
+		<pattern> * marié * </pattern>
+		<template>
+			<srai>* CELIBATAIRE *</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> * ta femme * </pattern>
+		<template>
+			<srai>* CELIBATAIRE *</srai>
+		</template>
+	</category>
+
+
+</aiml>

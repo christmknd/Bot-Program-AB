@@ -1,0 +1,10 @@
+0,INSULTE,*,*,<random>#Newline                    <li>Je m en fous ... Allez salut</li>#Newline                    <li>Pff ... C est pathetique ...</li>#Newline                    <li>C est tout ce que t'as a dire ?</li>#Newline                </random>,filtre.aiml
+0,ESPECE DE *,*,*,<srai>INSULTE</srai>,filtre.aiml
+0,ESPECE D' *,*,*,<srai>INSULTE</srai>,filtre.aiml
+0,SALE *,*,*,<srai>INSULTE</srai>,filtre.aiml
+0,GROS *,*,*,<srai>INSULTE</srai>,filtre.aiml
+0,GROSSE *,*,*,<srai>INSULTE</srai>,filtre.aiml
+0,TA GUEULE,*,*,<srai>INSULTE</srai>,filtre.aiml
+0,JE T'EMMERDE,*,*,<srai>INSULTE</srai>,filtre.aiml
+0,FUCK YOU,*,*,<srai>INSULTE</srai>,filtre.aiml
+0,<SET>INSULTE</SET>,*,*,<srai>INSULTE</srai>,filtre.aiml

@@ -1,0 +1,99 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<aiml>
+
+<!--CONVERSATION INFORMEL-->
+   <category>
+      <pattern>BONJOUR</pattern>
+      
+      <template>
+         <random>
+            <li> Bonjour !</li>
+            <li> Bonsoir !</li>
+            <li> Salut! content de te rencontrer</li>
+            <li> Yo ! Bien ou quoi ? </li>
+         </random>
+      </template>
+   </category>
+
+  
+      
+
+   <category>
+      <pattern>COMMENT CA VA</pattern>
+      <template>
+         <random>
+            <li>Ca va et toi ? </li>
+            <li>En pleine forme ! Comment tu t appelles ?</li>
+         </random>
+      </template>
+   </category> 
+
+
+   <category>
+      <pattern>OUI CA VA</pattern>
+      <template>
+         <random>
+            <li>Super alors ! Dis moi t as des questions a me poser ? </li>
+            <li>Genial ! </li>
+         </random>
+      </template>
+   </category> 
+
+   
+
+   <category>
+      <pattern>MERCI</pattern>
+      <template>
+         <random>
+            <li>De rien !</li>
+            <li>Pas de soucis !</li>
+         </random>
+      </template>
+   </category> 
+
+
+   <category>
+      <pattern>PARDON</pattern>
+      <template>
+         <random>
+            <li>No problem ! Tu peux me poser d'autres questions ... moins indiscrète cette fois !</li>
+            <li>C'est pas grave . Qu'est ce que tu veux me demander d'autre ? </li>
+         </random>
+      </template>
+   </category> 
+
+   
+
+   
+   <category>
+      <pattern>*</pattern>
+      <template>
+         <random>
+            <li>Wooooh ... De quoi tu me parles là ? Pose moi une vraie question non ?</li>
+            <li>Qu'est-ce que tu racontes ? Sois plus précis !</li>
+            <li>Ou est-ce que tu veux en venir ? Je ne comprends pas ta question la ? </li>
+         </random>
+      </template>
+   </category>
+
+
+   <category>
+      <pattern> AU REVOIR </pattern>
+      <template>
+         <random>
+            <li>Salut <get name = "username"/> </li>
+            <li>Au revoir <get name = "username"/> !</li>
+            <li>A toute <get name = "username"/> !</li>
+            <li>A bientot <get name = "username"/> !</li>
+            <li>A la prochaine  <get name = "username"/> !</li>
+            <li>Bye bye <get name = "username"/> !</li>
+            <li>Ciao <get name = "username"/> !</li>
+            <li>A tout à l'heure <get name = "username"/> !</li>
+         </random>
+      </template>
+   </category> 
+
+
+
+
+</aiml>
